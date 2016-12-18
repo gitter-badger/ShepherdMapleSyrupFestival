@@ -19,7 +19,7 @@ On the last full weekend in April the people of the central Michigan community o
 
 # August 1958
 
-![](assets/originalsugarbush1959.gif)
+![](wp-content/uploads/2016/12/originalsugarbush1959.gif)
 
 The Board of Directors of the Shepherd Chamber of Commerce decided to promote a Maple Syrup Festival. The Shepherd Sugar Bush Corporation was created and planning began for our first one day festival where 125 gallons of maple syrup were made and we served a few hundred meals. Through the years we have grown to become a three day festival providing up to 11,000 meals. If it had not been for our many volunteers and visitors from locations all over Michigan and neighboring states, we never could have accomplished all that we have during the past half century.
 
