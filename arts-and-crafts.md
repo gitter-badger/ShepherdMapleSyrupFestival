@@ -89,5 +89,5 @@ DEADLINE:  **When all spaces are assigned.**
 
 Isabella County Sheriff’s Department 989-772-5911.
 
-
+[wpghs target='view' type='link' text='Here is my post on GitHub']
 
