@@ -1,4 +1,8 @@
-# History of the Festival
+---
+post_title: 'History of the Festival'
+layout: page
+published: false
+---
 
 On the last full weekend in April the people of the central Michigan community of Shepherd celebrate their annual Maple Syrup Festival. We cordially invite you to come celebrate with us.
 
