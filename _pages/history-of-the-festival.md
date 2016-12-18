@@ -2,11 +2,14 @@
 ID: 768
 post_title: History of the Festival
 author: ng23055
-post_date: 2016-12-18 14:55:36
+post_date: 2016-12-18 14:57:22
 post_excerpt: ""
 layout: page
-permalink: 'http://www.shepherdmaplesyrupfest.org?page_id=768&preview_id=768'
-published: false
+permalink: >
+  http://www.shepherdmaplesyrupfest.org/history-of-the-festival
+published: true
+wide_assets:
+  - ""
 ---
 On the last full weekend in April the people of the central Michigan community of Shepherd celebrate their annual Maple Syrup Festival. We cordially invite you to come celebrate with us.
 
