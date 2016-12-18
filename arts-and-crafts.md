@@ -3,8 +3,6 @@ post_title: 'Arts & Crafts Show Information'
 layout: page
 published: false
 ---
-
-
 SHEPHERD MAPLE SYRUP FESTIVAL
 
 APRIL 28, 29 and 30 2017
