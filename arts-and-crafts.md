@@ -11,5 +11,5 @@ The Arts and Craft show will be open Friday, Saturday, and Sunday. Booths will b
 
 ## Application for a Commercial Booth
 
-*Contact Gina Gross with questions about the Arts and Crafts show at **_pondagrossa@charter.net_**. *
+_Contact Gina Gross with questions about the Arts and Crafts show at [pondagrossa@charter.net](/pondagrossa@charter.net)._
 
