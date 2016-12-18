@@ -1,10 +1,9 @@
 ---
-post_title: 'Post Title'
+post_title: 'Arts & Crafts and Commercial Application'
 layout: page
 published: false
 ---
-
-# Arts & Craft Information
+# ARTS & CRAFTS and COMMERCIAL APPLICATION
 
 SHEPHERD MAPLE SYRUP FESTIVAL
 
@@ -95,5 +94,5 @@ DEADLINE:  **When all spaces are assigned.**
 
 Isabella County Sheriff’s Department 989-772-5911.
 
-[wpghs target='view' type='link' text='Here is my post on GitHub']
+[**_Download Arts & Craft Registration form here_**](https://drive.google.com/open?id=0B490-AjaRizwSXdpUTNqcmN5Zmc)
 
