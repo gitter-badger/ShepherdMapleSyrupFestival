@@ -1,3 +1,9 @@
+---
+post_title: 'Post Title'
+layout: page
+published: false
+---
+
 # Arts & Craft Information
 
 SHEPHERD MAPLE SYRUP FESTIVAL
