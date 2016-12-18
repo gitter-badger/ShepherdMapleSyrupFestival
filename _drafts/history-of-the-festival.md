@@ -1,9 +1,13 @@
 ---
-post_title: 'History of the Festival'
+ID: 768
+post_title: History of the Festival
+author: ng23055
+post_date: 2016-12-18 14:55:36
+post_excerpt: ""
 layout: page
+permalink: 'http://www.shepherdmaplesyrupfest.org?page_id=768&preview_id=768'
 published: false
 ---
-
 On the last full weekend in April the people of the central Michigan community of Shepherd celebrate their annual Maple Syrup Festival. We cordially invite you to come celebrate with us.
 
 # August 1958
@@ -21,4 +25,3 @@ All work on the syrup, candy, and all other areas of the festival is voluntary a
 As usual there will be the famous and delicious Pancake, Maple Syrup, and Sausage Meals served at the Shepherd High School Friday afternoon through Sunday afternoon.
 
 All of the planned activities (including craft shows, entertainment, children’s activities, museums, tractor pulls, classic car and tractor displays, parades, and amusement rides) add up to a most enjoyable and memorable weekend for people of all ages. We invite you to witness hometown hospitality at its best and join us in the “Sweetest Little Town Anywhere Around” on April 21 - 24, 2016.
-
