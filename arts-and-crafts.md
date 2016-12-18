@@ -1,9 +1,9 @@
 ---
-post_title: 'Arts & Crafts and Commercial Application'
+post_title: 'Arts & Crafts Show Information'
 layout: page
 published: false
 ---
-# ARTS & CRAFTS and COMMERCIAL APPLICATION
+
 
 SHEPHERD MAPLE SYRUP FESTIVAL
 
